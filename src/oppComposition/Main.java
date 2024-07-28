@@ -5,12 +5,12 @@ public class Main {
 	public static void main(String[] args) {
 
 
-	      Author ahTeck = new Author("Tan Ah Teck", "ahTeck@somewhere.com", 'm');
-	      System.out.println(ahTeck);  // Author's toString()
+	      Author yassineA = new Author("yassine", "yassine.aitoukallal@gmai.com", 'm');
+	      System.out.println(ahTeck);  
 
 
 
-	      Book dummyBook = new Book("Java for dummies", ahTeck, 9.99, 99);
+	      Book dummyBook = new Book("Java for dummies", yassineA, 9.99, 99);
 	      System.out.println(dummyBook);  
 
 	      dummyBook.setPrice(8.88);

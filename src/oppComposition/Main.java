@@ -6,7 +6,7 @@ public class Main {
 
 
 	      Author yassineA = new Author("yassine", "yassine.aitoukallal@gmai.com", 'm');
-	      System.out.println(ahTeck);  
+	      System.out.println(yassineA);  
 
 
 
